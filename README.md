@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jeong JunHo
 - 👀 I’m interested in reading books and surfing in sea
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript, vue.js
 - 📫 How to reach me lovemehui12312@gmail.com
 
 <!---
